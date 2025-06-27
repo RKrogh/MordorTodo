@@ -1,5 +1,9 @@
 # Mordor Todo - One Task to Rule Them All
 
+An AI experiment. Trying to create an app using a one-liner. #nohands
+"Build me a Todo-app worthy of Mordor".
+
+The result?
 A dark, ominous Todo application worthy of the Dark Lord himself. Built with React, Vite, and Framer Motion.
 
 ## Features
